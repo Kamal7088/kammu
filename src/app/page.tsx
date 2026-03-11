@@ -5,7 +5,7 @@ export default function Home() {
       <h1 className="text-4xl font-bold text-white">
         Next.js + Tailwind Working 🚀
 shshhsh
-        kamalkbn
+        kamalkbn kamal singh bisht
         {/* kkksksdjjjd */}
       </h1>
     </div>
